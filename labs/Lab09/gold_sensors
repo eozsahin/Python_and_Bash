@@ -1,0 +1,146 @@
+<sensors>
+ <sensor state="FL" type="P" id="100-A4XC">
+  <val>0.749234699076</val>
+  <val>0.45748805232</val>
+ </sensor>
+ <sensor state="NY" type="T" id="100-BC7X">
+  <val>0.87777987674</val>
+  <val>0.538244325855</val>
+ </sensor>
+ <sensor state="NJ" type="P" id="100-7Z37">
+  <val>0.675123614739</val>
+  <val>0.280365066149</val>
+  <val>-0.911827445792</val>
+ </sensor>
+ <sensor state="RI" type="R" id="100">
+  <val>-0.2457728904</val>
+  <val>0.527796302224</val>
+  <val>0.352155953702</val>
+  <val>0.982261579699</val>
+  <val>-0.700793513279</val>
+ </sensor>
+ <sensor state="NY" type="P" id="100-YA73">
+  <val>-0.906885366669</val>
+  <val>0.617206055389</val>
+  <val>-0.411791796662</val>
+  <val>-0.458917504298</val>
+ </sensor>
+ <sensor state="NJ" type="T" id="100">
+  <val>0.176150922376</val>
+  <val>-0.717919274993</val>
+  <val>-0.971301384733</val>
+ </sensor>
+ <sensor state="RI" type="T" id="100">
+  <val>0.923176404616</val>
+  <val>-0.273706166735</val>
+  <val>0.319289478525</val>
+  <val>-0.507084375619</val>
+  <val>-0.496845081002</val>
+ </sensor>
+ <sensor state="FL" type="T" id="100-4CB4">
+  <val>-0.523230236075</val>
+  <val>0.802089816993</val>
+  <val>0.709931708192</val>
+ </sensor>
+ <sensor state="FL" type="P" id="149-XCZ3">
+  <val>-0.354919535828</val>
+  <val>-0.457109917737</val>
+  <val>0.631460070236</val>
+ </sensor>
+ <sensor state="NY" type="T" id="239-YXZ7">
+  <val>-0.230381269442</val>
+  <val>-0.369877788649</val>
+ </sensor>
+ <sensor state="NJ" type="P" id="175-7CCA">
+  <val>-0.113967122192</val>
+  <val>-0.973462995672</val>
+  <val>0.995192723817</val>
+ </sensor>
+ <sensor state="NJ" type="R" id="100">
+  <val>-0.394813856267</val>
+  <val>-0.131296287152</val>
+  <val>-0.37776816505</val>
+ </sensor>
+ <sensor state="NJ" type="T" id="108-34X7">
+  <val>-0.626445987836</val>
+ </sensor>
+ <sensor state="NY" type="P" id="170">
+  <val>0.975677670998</val>
+  <val>-0.227201101488</val>
+  <val>-0.871676618915</val>
+  <val>0.689706409988</val>
+ </sensor>
+ <sensor state="NJ" type="T" id="160">
+  <val>0.12041795359</val>
+  <val>-0.275483070551</val>
+  <val>0.768747022019</val>
+ </sensor>
+ <sensor state="NY" type="R" id="100">
+  <val>-0.24468739367</val>
+  <val>-0.109449518426</val>
+  <val>0.0349887562993</val>
+ </sensor>
+ <sensor state="NY" type="R" id="190-ZA47">
+  <val>0.00703133142307</val>
+  <val>-0.143555433387</val>
+  <val>-0.48557152776</val>
+ </sensor>
+ <sensor state="NY" type="P" id="245">
+  <val>-0.0373309381292</val>
+  <val>-0.699267640635</val>
+  <val>-0.265378974018</val>
+  <val>-0.708609107565</val>
+  <val>-0.182785506342</val>
+ </sensor>
+ <sensor state="NY" type="T" id="262-X7Y3">
+  <val>-0.621598804339</val>
+  <val>0.342022350624</val>
+  <val>0.691481198647</val>
+  <val>0.759995266363</val>
+  <val>0.478085316317</val>
+ </sensor>
+ <sensor state="RI" type="R" id="294-47AZ">
+  <val>-0.625648170274</val>
+  <val>-0.116191056579</val>
+  <val>-0.555004080775</val>
+ </sensor>
+ <sensor state="FL" type="R" id="100">
+  <val>0.888288812763</val>
+ </sensor>
+ <sensor state="NJ" type="T" id="212">
+  <val>-0.558003684616</val>
+  <val>0.0172474373902</val>
+ </sensor>
+ <sensor state="RI" type="T" id="293">
+  <val>0.736610142966</val>
+  <val>0.0144854696183</val>
+  <val>-0.332204734663</val>
+  <val>0.569897659526</val>
+ </sensor>
+ <sensor state="NY" type="R" id="283-3C74">
+  <val>-0.575396269838</val>
+  <val>-0.316088233245</val>
+  <val>0.954952228125</val>
+  <val>0.628683887635</val>
+  <val>-0.0680601711834</val>
+ </sensor>
+ <sensor state="FL" type="T" id="224-CBXY">
+  <val>-0.612015745537</val>
+  <val>-0.357888630213</val>
+ </sensor>
+ <sensor state="NY" type="T" id="286">
+  <val>-0.0998235127745</val>
+ </sensor>
+ <sensor state="FL" type="T" id="272">
+  <val>0.345388383647</val>
+  <val>-0.577182698119</val>
+  <val>-0.718239093879</val>
+ </sensor>
+ <sensor state="RI" type="R" id="356">
+  <val>-0.549005338677</val>
+  <val>0.545028740523</val>
+  <val>0.777131214139</val>
+  <val>-0.642166283301</val>
+  <val>0.687628118525</val>
+ </sensor>
+</sensors>

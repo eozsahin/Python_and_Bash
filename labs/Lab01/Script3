@@ -1,0 +1,17 @@
+#! /bin/bash
+#$Author: ee364a09 $
+#$Date: 2014-01-14 15:05:07 -0500 (Tue, 14 Jan 2014) $
+#$Revision: 63441 $
+#$HeadURL: svn+ssh://ece364sv@ecegrid-lnx/home/ecegrid/a/ece364sv/svn/S14/students/ee364a09/Lab01/Script3 $
+#$Id: Script3 63441 2014-01-14 20:05:07Z ee364a09 $
+Num_Of_Param=$#
+Param_Values=$@
+if (($1 % 3 == 0))
+then
+    for (( I=$1; I>=0;I=I-3))
+    do      
+            echo  ${I}
+     done
+fi        
+exit 0
+
